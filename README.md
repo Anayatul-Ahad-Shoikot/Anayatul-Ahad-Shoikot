@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anayatul Ahad Shoikot</h1>
+<h1 align="center">Hey 👋, I'm Anayatul Ahad Shoikot</h1>
 <h3 align="center">A passionate Future fullStack developer from DarkWorld 🌚</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anayatul-ahad-shoikot&label=Profile%20views&color=0e75b6&style=flat" alt="anayatul-ahad-shoikot" /> </p>
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ahad-shoikot.free.nf](https://ahad-shoikot.free.nf)
 
-- 💬 Ask me about **Programming languages, problems**
+- 💬 Ask me about **Programming languages and for any problems**
 
 - 📫 How to reach me **shoikotofficial@gmail.com**
 
@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anayatul ahad shoikot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anayatul ahad shoikot" height="30" width="40" /></a>
-<a href="https://fb.com/আহাদ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="আহাদ" height="30" width="40" /></a>
-<a href="https://instagram.com/___shoi____kot___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___shoi____kot___" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anayatul-ahad-shoikot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anayatul ahad shoikot" height="30" width="30" /></a>
+<a href="https://www.facebook.com/ItsMeShoikot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="আহাদ" height="30" width="30" /></a>
+<a href="https://www.instagram.com/__Shoi__koT__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___shoi____kot___" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
