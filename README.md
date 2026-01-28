@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Anayatul%20Ahad%20Shoikot&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20from%20the%20Dark%20Side%20🌚&descSize=16&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6b21a8,100:0d1117&height=200&section=header&text=Anayatul%20Ahad%20Shoikot&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20from%20the%20Dark%20Side%20🌚&descSize=16&descAlignY=55&descAlign=50"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+the+web%2C+one+line+at+a+time+%F0%9F%92%BB;React+%7C+Node+%7C+Express+%7C+Next.js;Always+learning%2C+always+growing+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -23,7 +23,7 @@
 ```javascript
 const shoikot = {
     location: "DarkWorld 🌚",
-    currentFocus: "Full Stack Development",
+    currentFocus: "Frontend Development",
     learning: ["React", "Next.js", "Node.js", "Express"],
     askMeAbout: ["Web Dev", "JavaScript", "Problem Solving"],
     funFact: "I really don't know how much % of web development I've acquired 🤷‍♂️"
