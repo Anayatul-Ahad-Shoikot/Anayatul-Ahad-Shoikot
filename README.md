@@ -60,22 +60,22 @@ const shoikot = {
 
 ### 💻 Core Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,php,js,ts&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=c,java,php,js&theme=dark" alt="Languages"/>
 </p>
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,redux,nextjs&theme=dark" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=tailwind,react&theme=dark" alt="Frontend"/>
 </p>
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql&theme=dark" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgresql&theme=dark" alt="Backend"/>
 </p>
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,framer,webflow,onepage&theme=dark" alt="Tools"/>
 </p>
 
 </div>
